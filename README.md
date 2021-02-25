@@ -2,7 +2,9 @@
 
 Here I explore my initial ideas of what I want to code about.
 
-Discovering what Im about.
+Discovering what Im about as in the process. So Im planning to be a Full Stack Developer. 
+
+Having never known a line of code... Excited to see where I end up at the end of the bootcamp.
 
 Pure HTML and fun times
 
